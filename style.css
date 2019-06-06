@@ -2,11 +2,11 @@ h1{
     color:darkblue;
 }
 li{
-    color:aqua;
+    color:darkgreen;
 } 
 h3{
     color:brown;
-    background: green;
+    background:aqua;
 }
 th{
     color:darkslategray;
