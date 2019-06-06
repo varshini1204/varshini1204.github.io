@@ -1,7 +1,20 @@
 h1{
-    color:blue;
+    color:darkblue;
 }
+li{
+    color:aqua;
+} 
 h3{
-    background:yellow;
-    color:red;
+    color:brown;
+    background: green;
+}
+th{
+    color:darkslategray;
+    background:pink;
+} 
+td{
+    color:midnightblue;
+} 
+body{
+    background:silver;
 }
