@@ -15,6 +15,21 @@ th{
 td{
     color:midnightblue;
 } 
+
 body{
-    background:silver;
+    background: #70a1ff;
+    margin:100px ;
+    
+}
+.box{
+    background:#487eb0;
+    background-image:aqua;
+    padding:50px;
+    
+}
+#image{
+    border: 10px solid red;
+    width: 100px;
+    height: 100px;
+    border-radius:200px; 
 }
